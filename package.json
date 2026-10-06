@@ -1,0 +1,10 @@
+{
+    "devDependencies": {
+        "@woocommerce/dependency-extraction-webpack-plugin": "^2.3.0",
+        "@wordpress/scripts": "^27.4.0"
+    },
+    "scripts": {
+        "build": "wp-scripts build",
+        "start": "wp-scripts start"
+    }
+}
